@@ -2,4 +2,4 @@
 Some of the Writeups From our CTF2025
 
 
-[Cookie](Remote.pdf)
+[Cookie](Cookie_(Michael_and_Orlando).pdf)
