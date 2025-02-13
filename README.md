@@ -11,3 +11,5 @@ Some of the Writeups From our CTF2025
 [API Challenge](API_Challenge_(Orlando__Michael).pdf)
 
 [Easy Key Linux](Easy_Key_Linux_(OrlandoMichael_Prajwal).pdf)
+
+[Easy Key Linux 2](Easy_Key_Linux_2_(OrlandoMichaelPrajwal).pdf)
