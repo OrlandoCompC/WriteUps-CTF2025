@@ -1,6 +1,6 @@
 # WriteUps-CTF2025
-Some of the Writeups From our CTF2025
-
+Some of the Writeups From our ISS CTF2025
+The Point of most of these challenges was for the players to learn something new. We wanted to relate it to some real life cases we have seen. We also didn't want to make it too complex so we provided multiple hints and in some cases simplified the vulnerablity to make it more obvious.
 
 [Cookie](Cookie_(Michael_and_Orlando).pdf)
 
